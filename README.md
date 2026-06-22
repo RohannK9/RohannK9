@@ -27,13 +27,6 @@ I work across the stack with **Java (Spring Boot)** and **Python (FastAPI)**, wi
 
 ---
 
-### 📌 A few things I've built
-
-- **HireRadar** — AI-powered job search automation: FastAPI backend, Selenium scrapers across 20+ career pages, scheduled workflows + alerts
-- **RetailSpark** — hyperlocal grocery delivery app, shipped on the Google Play Store (Flutter)
-
----
-
 ### 📫 Reach me
 
 [LinkedIn](https://www.linkedin.com/in/rohann-keerthy/) · rohann.keerth@gmail.com
